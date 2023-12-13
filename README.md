@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Panchal</h1>
 <h3 align="center">A passionate Data Scientist with experience in ML, DL, Computer Vision and Gen AI.</h3>
 
-<imgtag="right" alt="animation" width="540" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgeometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777%2F&psig=AOvVaw2Kakc_dCSNbxiHQG86W0f2&ust=1702563638035000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDAnfzNjIMDFQAAAAAdAAAAABAa">
+<img align="right" alt="animation" width="540" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgeometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777%2F&psig=AOvVaw2Kakc_dCSNbxiHQG86W0f2&ust=1702563638035000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDAnfzNjIMDFQAAAAAdAAAAABAa">
 
 - 📫 How to reach me **pcpanchal284@gmail.com**
 
