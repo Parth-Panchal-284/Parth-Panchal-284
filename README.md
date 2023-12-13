@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Parth Panchal</h1>
 <h3 align="center">A passionate Data Scientist with experience in ML, DL, Computer Vision and Gen AI.</h3>
 
-<img align="right" alt="animation" width="540" src="https://in.pinterest.com/pin/71072500353753777/">
+<img align="right" alt="animation" width="540" src="![image](https://github.com/Parth-Panchal-284/Parth-Panchal-284/assets/59794992/cdd7ca26-3aa9-4bc5-9e58-4ca241de2dcd)">
 
 - 📫 How to reach me **pcpanchal284@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parth panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth panchal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parth-panchal-952948178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth panchal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
