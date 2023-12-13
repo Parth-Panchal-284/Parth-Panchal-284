@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Panchal</h1>
 <h3 align="center">A passionate Data Scientist with experience in ML, DL, Computer Vision and Gen AI.</h3>
 
-<img align="right" alt="animation" width="540" src="![image](https://github.com/Parth-Panchal-284/Parth-Panchal-284/assets/59794992/cdd7ca26-3aa9-4bc5-9e58-4ca241de2dcd)">
+<img align="right" alt="animation" width="540" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
 
 - 📫 How to reach me **pcpanchal284@gmail.com**
 
